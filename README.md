@@ -1,6 +1,6 @@
 # ACM NITK Membership Management System
 
-A lightweight membership portal for a college club. Admins manage members and teams; everyone else can browse the directory and see live statistics.
+A lightweight membership portal for ACM. Admins manage members and teams; everyone else can browse the directory and see live statistics.
 
 **Chosen task:** Project 2, Membership Management System (ACM NITK Web Team Recruitment 2026)
 >Demo video : Please unzip the demo_video.zip ,sorry for inconvience.
