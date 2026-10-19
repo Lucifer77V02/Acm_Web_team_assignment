@@ -4,13 +4,7 @@ A lightweight membership portal for a college club. Admins manage members and te
 
 **Chosen task:** Project 2, Membership Management System (ACM NITK Web Team Recruitment 2026)
 
-| | |
-|---|---|
-| **Live demo** | `TODO: https://your-app.onrender.com` |
-| **Demo video (mandatory)** | `TODO: paste YouTube / Drive link` |
-| **Repository** | `TODO: https://github.com/your-username/your-repo` |
-
-> **Demo login:** `TODO: admin username / password` (admin) and `TODO: viewer username / password` (read-only).
+> **Demo login:** `TODO: admin temp / temp1234` (admin) and `TODO: viewer tp / tp1234` (read-only).
 > The free hosting tier sleeps after inactivity, so the first load can take about a minute.
 
 ---
