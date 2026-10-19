@@ -81,7 +81,7 @@ All figures come from the database through `GET /api/members/stats/`:
 | Database | PostgreSQL |
 | Auth | Django sessions (cookie based) |
 | Production serving | Gunicorn + WhiteNoise |
-| Hosting | Render (app) + Neon (PostgreSQL) |
+
 
 ```
 Browser (React SPA)
