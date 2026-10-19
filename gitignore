@@ -1,0 +1,20 @@
+@"
+# Secrets
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+staticfiles/
+
+# Node
+node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+"@ | Out-File -Encoding utf8 .gitignore
