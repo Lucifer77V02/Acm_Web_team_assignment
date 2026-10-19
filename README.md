@@ -372,32 +372,6 @@ Query parameters for `GET /members/`: `search`, `status` (`active` or `inactive`
 
 ---
 
-## Deployment
-
-Hosted on **Render** (web service) with **Neon** (PostgreSQL). Django serves both the API and the built React app from a single URL. Build command: `./build.sh`. Start command: `gunicorn backend.wsgi`.
-
-Live URL: `TODO`
-
----
-
-## Screenshots
-
-Add images to a `screenshots/` folder and reference them here.
-
-| Dashboard | Members |
-|---|---|
-| `![Dashboard](screenshots/dashboard.png)` | `![Members](screenshots/members.png)` |
-
-| Member detail | Teams |
-|---|---|
-| `![Member](screenshots/member-detail.png)` | `![Teams](screenshots/teams.png)` |
-
-| Mobile view | Users and roles |
-|---|---|
-| `![Mobile](screenshots/mobile.png)` | `![Users](screenshots/users.png)` |
-
----
-
 ## References
 
 - [Django documentation](https://docs.djangoproject.com/)
@@ -407,4 +381,4 @@ Add images to a `screenshots/` folder and reference them here.
 - [Recharts](https://recharts.org/)
 - [WhiteNoise](https://whitenoise.readthedocs.io/)
 - [Render](https://render.com/docs) and [Neon](https://neon.com/docs) deployment docs
-- `TODO: list any tutorials or AI tools you used, as the brief asks you to be honest about resources`
+- Claude Haiku
